@@ -6,7 +6,7 @@
 
 <p align="center">
 Sou um curioso por natureza, gosto de entender como as coisas funcionam em especial na área de desenvolvimento de software. <br>
-Foco em aprendizado contínuo, boas práticas e construção de soluções eficientes - sempre presendo em entender o porquê das coisas.
+Foco em aprendizado contínuo, boas práticas e construção de soluções eficientes - sempre prezendo em entender o porquê das coisas.
 </p>
 
 ---
