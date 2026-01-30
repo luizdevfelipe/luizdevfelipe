@@ -1,11 +1,12 @@
-<h1 align="center">👨🏻‍💻 Luiz Felipe</h1>
+<h1 align="center">📫 luizdevfelipe@gmail.com</h1>
 
 <h2 align="center">
-Desenvolvedor em formação • Estudante de Engenharia de Computação
+• Desenvolvedor em formação • Estudante de Engenharia de Computação
 </h2>
 
 <p align="center">
-Sou apaixonado por tecnologia e desenvolvimento de software, com foco em aprendizado contínuo, boas práticas e construção de soluções eficientes.
+Sou um curioso por natureza, gosto de entender como as coisas funcionam em especial na área de desenvolvimento de software. <br>
+Foco em aprendizado contínuo, boas práticas e construção de soluções eficientes - sempre presendo em entender o porquê das coisas.
 </p>
 
 ---
@@ -55,5 +56,5 @@ Sou apaixonado por tecnologia e desenvolvimento de software, com foco em aprendi
 </p>
 
 <p align="center">
-✨ Obrigado por visitar meu perfil!
+🙏 Obrigado por visitar meu perfil!
 </p>
